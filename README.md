@@ -1,6 +1,6 @@
 Varius bits of code playing around with various window functions and some signal processing stuff.
 Lots of the code is pretty bad/broken so don't take any of it too seriously it's a bit of a mess, check over everything before using any of this in production.
-Some sections had a bit of AI use.
+Some sections had a bit of AI use (mostly the DPSS stuff).
 
 The main interesting things here are:
 
