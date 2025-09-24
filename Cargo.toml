@@ -1,0 +1,11 @@
+[package]
+name = "window-fn"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+faer = "0.23.2"
+iter_num_tools = "0.7.1"
+num-traits = "0.2.19"
+plotly = "0.13.5"
+rustfft = "6.4.1"
